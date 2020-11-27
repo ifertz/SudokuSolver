@@ -16,7 +16,7 @@ Caso alguns comandos a mais, caso interesse:
 
 '-o' arquivo output do resultado (ex: -o resposta.txt).
 
-
+Exemplo de input: 'python AlgoritmoTCC.py -o resultadosHard2 hard2.txt'
 
 Simples e de fácil uso.
 Qualquer dúvida: fer_augusto_neves@hotmail.com
