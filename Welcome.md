@@ -6,7 +6,7 @@ A monografia também está no repositório.
 Para rodar e testar o algoritmo basta usar o comando "python AlgoritmoTCC.py (DIFICULDADE).txt" no PowerShell do windows 
 estando dentro da pasta em que o algoritmo e a DIFICULDADE se encontram.
 
-Caso alguns comandos a mais, caso interesse:
+Temos alguns comandos a mais, caso interesse:
 
 '-m' Ajusta taxa de mutação (0 a 1);
 
